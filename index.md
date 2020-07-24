@@ -1,3 +1,8 @@
+---
+layout: custom
+title: Avoid Calamity
+---
+
 # Worldwide Announcement
 
 Today, Wednesday, August 12, 2020, time travel are real
