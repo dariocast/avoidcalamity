@@ -1,4 +1,5 @@
-theme: jekyll-theme-hacker
+# theme: jekyll-theme-hacker
+remote_theme: luxedo/jekyll-theme-potato-hacker
 title: Avoid Calamity Game
 description: Una caccia al tesoro diversa
 lang: it-IT
