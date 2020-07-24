@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Avoid Calamity
 ---
 
 # Worldwide Announcement
