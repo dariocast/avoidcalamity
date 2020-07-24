@@ -1,6 +1,7 @@
 theme: jekyll-theme-hacker
 title: Avoid Calamity Game
 description: Una caccia al tesoro diversa
+lang: it-IT
 show_downloads: false
 github:
   is_project_page: false
